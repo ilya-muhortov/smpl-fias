@@ -1,0 +1,11 @@
+*.egg-info
+*.pot
+*.bat
+*.pyproj
+*.sln
+__pycache__
+.DS_Store
+
+test_app/db.sqlite3
+venv
+.idea
